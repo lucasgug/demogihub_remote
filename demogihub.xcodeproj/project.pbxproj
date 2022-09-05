@@ -11,6 +11,7 @@
 		03889CA528C5A66800620A76 /* MainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03889CA428C5A66800620A76 /* MainView.swift */; };
 		03889CA728C5A66900620A76 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 03889CA628C5A66900620A76 /* Assets.xcassets */; };
 		03889CAA28C5A66900620A76 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 03889CA928C5A66900620A76 /* Preview Assets.xcassets */; };
+		03889CB128C5AC1800620A76 /* SecondView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03889CB028C5AC1800620A76 /* SecondView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		03889CA428C5A66800620A76 /* MainView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainView.swift; sourceTree = "<group>"; };
 		03889CA628C5A66900620A76 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		03889CA928C5A66900620A76 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		03889CB028C5AC1800620A76 /* SecondView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				03889CA228C5A66800620A76 /* demogihubApp.swift */,
 				03889CA428C5A66800620A76 /* MainView.swift */,
+				03889CB028C5AC1800620A76 /* SecondView.swift */,
 				03889CA628C5A66900620A76 /* Assets.xcassets */,
 				03889CA828C5A66900620A76 /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				03889CB128C5AC1800620A76 /* SecondView.swift in Sources */,
 				03889CA528C5A66800620A76 /* MainView.swift in Sources */,
 				03889CA328C5A66800620A76 /* demogihubApp.swift in Sources */,
 			);
