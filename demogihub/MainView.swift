@@ -13,8 +13,14 @@
             var body: some View {
                 ZStack {
                     Color.yellow.ignoresSafeArea(.all)
-                    Text("This is a test ")
-                        .padding()
+                    VStack {
+                        Text("This is a test ")
+                            .padding()
+                        
+                        Text("Amarrillo 🍌")
+                    }
+                    
+                   
                 }
             }
         }
